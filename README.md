@@ -1,0 +1,2 @@
+# liteOS
+Lightweight Linux distribution
